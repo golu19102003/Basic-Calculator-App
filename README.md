@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/9d46c5dc-5392-4375-8ba9-bf0216eb1d6f)
+![image](https://github.com/user-attachments/assets/507bdd14-a1e4-4345-b4ec-14e6d01fbe70)
 Project Title: Basic Calculator
 Project Description:
 This is a simple calculator app built in Android Studio using Java. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
